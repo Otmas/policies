@@ -1,6 +1,6 @@
 # Reporting Guidelines
 
-If you believe someone is violating the code of conduct we ask that you report it to the Stumptown Syndicate by emailing conduct@stumptownsyndicate.org. 
+If you believe someone is violating the code of conduct we ask that you report it to the Stumptown Syndicate by emailing oatmas64134@gmail.com
 
 **All reports will be kept confidential.** In some cases we may determine that a public statement will need to be made. If that's the case, the identities of all victims and reporters will remain confidential unless those individuals instruct us otherwise.
 
@@ -18,7 +18,7 @@ In your report please include:
 
 ## What happens after you file a report?
 
-You will receive an email from the Stumptown Syndicate's Code of Conduct Working Group acknowledging receipt within 24 hours (and will aim for much quicker than that).
+You will receive an email from the Otmas Softworks Code of Conduct Enforcement team acknowledging receipt within 24 hours (and will aim for much quicker than that).
 
 The working group will immediately meet to review the incident and determine:
 
@@ -35,7 +35,7 @@ Once the working group has a complete account of the events they will make a dec
 * A private reprimand from the working group to the individual(s) involved.
 * A public reprimand.
 * An imposed vacation (i.e. asking someone to "take a week off" from a mailing list or IRC).
-* A permanent or temporary ban from some or all Stumptown Syndicate spaces (events, meetings, mailing lists, IRC, etc.)
+* A permanent or temporary ban from some or all Otmas Softworks spaces (events, meetings, mailing lists, IRC, etc.)
 * A request for a public or private apology.
 * A request to engage in mediation and/or an accountability plan.
 
@@ -50,4 +50,5 @@ Finally, the Working Group will make a report on the situation to the Stumptown 
 Only permanent resolutions (such as bans) may be appealed. To appeal a decision of the working group, contact the Stumptown Syndicate Board at board@stumptownsyndicate.org with your appeal and the Syndicate board will review the case.
 
 _Revision 1.0, DRAFT, proposed June 2014_
-_Reporting Guidlines derived from those of the [Django Software Foundation](https://www.djangoproject.com/conduct/reporting/)._
+_Reporting Guidelines derived from those of the [Django Software Foundation](https://www.djangoproject.com/conduct/reporting/)._
+_Reporting Guidelines derived from Stumptown Syndicates' Code of Conduct
