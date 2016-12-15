@@ -1,6 +1,8 @@
 Policies
 ========
 
+This Code of Conduct used under the GNU GPL License.
+
 Mirror of policies for the Stumptown Syndicate. 
 
 * [Citizen Code of Conduct](citizen_code_of_conduct.md): Templated Code of Conduct for use groups, projects, and events.
